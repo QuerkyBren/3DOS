@@ -120,7 +120,7 @@ int main2(int argc, char **argv) {
 
     printf("\x1b[0;0HABCDEFGHIJKLMNOPQRSTUVWXYZ");
 
-    printf("\x1b[1;0HKEYBOARD!");
+    printf("\x1b[1;0HTHIS IS THE KEYBOARD!");
 
     consoleSelect(&topScreen);
 
